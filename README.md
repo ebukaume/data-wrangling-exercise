@@ -17,8 +17,8 @@
 <br>
 
 <p>
-  <a href="https://data-wrangling-exercise-rails.herokuapp.com/" target="_blank">
-    <img alt="Website" src="./docs/facebook.png" />
+  <a href="https://raw.githack.com/ebukaume/data-wrangling-exercise/master/index.html" target="_blank">
+    <img alt="demo" src="./demo.png" />
   </a>
 </p>
 
@@ -39,7 +39,7 @@ As an extra, I have also done a visual representation (line graph) of the price 
 
 ## Usage
 
-The visualization can be found [here]()
+The visualization can be found [here](https://raw.githack.com/ebukaume/data-wrangling-exercise/master/index.html)
 
 NB: Make sure you have python 3 abd git unstall before moving foward with these steps
 
