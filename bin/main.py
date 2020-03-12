@@ -41,7 +41,6 @@ class GasPriceScraper:
       prev_day = self.dataset[0]
 
       for day in self.dataset:
-        print(day)
         if self.__to_day(day) > self.__to_day(prev_day):
           if prev_day[1] != '' and prev_day[1] != 'NA':
             csv_handle.write(prev_day[0] + ',' + prev_day[1])
