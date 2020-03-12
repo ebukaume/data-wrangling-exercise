@@ -30,12 +30,12 @@ As an extra, I have also done a visual representation (line graph) of the price 
 
 ## Technologies
 
-- Python 3
-- Requests
-- Beautifulsoup
-- html5lib
-- D3
-- Bootstrap 4x
+- [Python 3](https://www.python.org/download/releases/3.0)
+- [Requests](https://requests.readthedocs.io/en/master)
+- [Beautifulsoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc)
+- [html5lib](https://pypi.org/project/html5lib)
+- [D3](https://d3js.org)
+- [Bootstrap 4x](https://getbootstrap.com)
 
 ## Usage
 
