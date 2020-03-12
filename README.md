@@ -41,7 +41,7 @@ As an extra, I have also done a visual representation (line graph) of the price 
 
 The visualization can be found [here](https://raw.githack.com/ebukaume/data-wrangling-exercise/master/index.html)
 
-NB: Make sure you have python 3 abd git unstall before moving foward with these steps
+NB: Make sure you have python 3 and git unstall before moving foward with these steps
 
 ```sh
 # Clone this repository
